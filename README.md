@@ -38,7 +38,14 @@ cd AlexUtilities
 
 # Build and run
 dotnet run
-```
+``` 
+# Or
+
+Download Latest Release From Github Page Here: https://github.com/UpperDownGuy/AlexUtilities/releases
+Run Installer
+Open AlexUtilities
+Accept Prompt To Run As Admin
+
 
 When launched, the app will prompt for admin privileges if required.
 
