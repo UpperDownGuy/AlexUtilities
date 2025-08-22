@@ -1,0 +1,2 @@
+C:\Users\Alexander Bagwell\source\repos\AlexUtilities\AlexUtilities\bin\Release\net8.0\win-x64\publish\AlexUtilities.pdb
+C:\Users\Alexander Bagwell\source\repos\AlexUtilities\AlexUtilities\bin\Release\net8.0\win-x64\publish\AlexUtilities.exe
