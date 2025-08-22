@@ -47,7 +47,11 @@ A colorful and interactive C# console application that provides a mix of useful 
   Download Latest Release From Github Page Here: https://github.com/UpperDownGuy/AlexUtilities/releases
   Run Installer
   Open AlexUtilities
-  Accept Prompt To Run As Admin
+
+- Locally:
+
+  Download AlexUtilitiesLocal.exe from the latest release here: https://github.com/UpperDownGuy/AlexUtilities/releases
+  Run The .exe
 
 
 When launched, the app will prompt for admin privileges if required.
