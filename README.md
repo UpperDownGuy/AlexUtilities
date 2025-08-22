@@ -2,7 +2,15 @@
 
 A colorful and interactive C# console application that provides a mix of useful **system utilities** and a few fun extras. Built to be lightweight, easy to run, and beginner-friendly.
 
-## ✨ Features
+
+### ✅ Verification Code
+
+* **Codes**:
+  * 7NhV-67dx\\1W.._QNx£?)|%Ez!*pB9PNF}8
+  * &h4)#aU7e1!4q+9H5+L{Fb8X?5fKCzY^vvL
+  * un/a6S3#f5K4|£3eU8u$<rXV`yB-,dKD{Cl
+
+Copy and Paste Each Line To Verify!
 
 ### 🔧 Utilities
 
