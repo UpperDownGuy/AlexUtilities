@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0yMHP1Wfyr8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alexander Bagwell\\source\\repos\\AlexUtilities\\AlexUtilities\\AlexUtilities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alexander Bagwell\\.nuget\\packages\\cxuesong.shims.visualbasic.devices\\0.3.0\\cxuesong.shims.visualbasic.devices.0.3.0.nupkg.sha512",
+    "C:\\Users\\Alexander Bagwell\\.nuget\\packages\\microsoft.visualbasic\\10.3.0\\microsoft.visualbasic.10.3.0.nupkg.sha512",
+    "C:\\Users\\Alexander Bagwell\\.nuget\\packages\\system.codedom\\9.0.8\\system.codedom.9.0.8.nupkg.sha512",
+    "C:\\Users\\Alexander Bagwell\\.nuget\\packages\\system.management\\9.0.8\\system.management.9.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
