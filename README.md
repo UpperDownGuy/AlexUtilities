@@ -31,20 +31,23 @@ A colorful and interactive C# console application that provides a mix of useful 
 
 ## 🚀 How to Run
 
-```bash
-# Clone the repo
-git clone https://github.com/yourusername/AlexUtilities.git
-cd AlexUtilities
+- Github Code:
+  
+  ```bash
+  # Clone the repo
+  git clone https://github.com/UpperDownGuy/AlexUtilities.git
+  cd AlexUtilities
+  
+  # Build and run
+  dotnet run
+  ```
 
-# Build and run
-dotnet run
-``` 
-# Or
+- Installer:
 
-Download Latest Release From Github Page Here: https://github.com/UpperDownGuy/AlexUtilities/releases
-Run Installer
-Open AlexUtilities
-Accept Prompt To Run As Admin
+  Download Latest Release From Github Page Here: https://github.com/UpperDownGuy/AlexUtilities/releases
+  Run Installer
+  Open AlexUtilities
+  Accept Prompt To Run As Admin
 
 
 When launched, the app will prompt for admin privileges if required.
